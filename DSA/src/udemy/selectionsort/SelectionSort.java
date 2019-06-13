@@ -4,7 +4,7 @@ public class SelectionSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] intArray = { 44, 88, 22, 11, 99, 55, 77, -33, -66 };
+		int[] intArray = { 44, 88, 22, 11, 99};
 
 		
 		for(int lastSortedIdx = intArray.length - 1; lastSortedIdx > 0; lastSortedIdx--)

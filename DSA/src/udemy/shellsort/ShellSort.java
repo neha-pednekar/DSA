@@ -4,7 +4,7 @@ public class ShellSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] intArray = { 88, 44, 22, 11, 99, 55, 77, -33, -66};
+		int[] intArray = { 88, 44, 22, 11, 99};
 		
 		for(int gap = intArray.length/2; gap>0; gap/=2)
 		{
